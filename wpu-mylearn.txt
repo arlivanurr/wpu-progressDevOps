@@ -3,10 +3,7 @@ Progress
 - Python
 - Go
 2. DONE
-3. Learn to Live in Terminal
-- Perfomance Monitoring, Proccess Monitoring, Networking Tools & Text Manipulation 
-- Scripting : Bash Scripting
-- Editors : Vim/nano
+3. DONE
 4. Version Control System
 - Git
 5. VCS Hosting
